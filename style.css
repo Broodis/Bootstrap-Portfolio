@@ -1,0 +1,58 @@
+/*Begin Navbar*
+.navbar {
+
+}
+
+.navbar-header {
+	color: #ffffff;
+}
+
+.navbar-brand {
+	text-align: center;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 32px;
+}
+
+li {
+	padding: 7px;
+	border-right: 1px solid #777777;
+}
+
+li:last-child {
+	border-right: 1px solid #777777;
+}
+
+li a {
+	color: #777777;
+}
+/*End Navbar
+
+Begin Footer
+footer {
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+	left: 0;
+	right: 0;
+	color: #eee;
+	background: #666666;
+	border-top: 8px solid #4aaaa5;
+}
+End Footer*/
+
+.topbar {
+	background-color: #4aaaa5
+}
+
+#JP {
+	text-align: center;
+}
+
+.navbar {
+	text-align: center;
+}
+
+.navigationmenu {
+	text-align: center;
+}
+
